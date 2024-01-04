@@ -1,0 +1,52 @@
+@media screen and (max-width: 770px) {
+    .navbar{
+        height: 5rem;
+        overflow: hidden;
+    }
+    .returns{
+        display: none;
+    }
+    .nav-cart p{
+        display: none;
+    }
+    .sign-in{
+        display: none;
+    }
+    .panel-all{
+        flex-wrap: wrap;
+    }
+    .panel-all p{
+        display: none;
+    }
+    .logo1{
+        width: 100px;
+    }
+    .nav-address{
+        display: none;
+    }
+    .hero-msg p{
+        font-size: 12px;
+    }
+    .hero-section{
+        height: 150px;
+        width: 100%;
+    }
+    .foot-panel2{
+        height: 120%;
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-between;
+    }
+
+.amit{
+    margin-top: 15px;
+}
+.logo{
+    height: 50px;
+    width: 44%;
+}
+.shift{
+    font-size: 10px;
+
+}
+}
