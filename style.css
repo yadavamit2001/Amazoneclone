@@ -123,6 +123,7 @@
     font-size: 14px;
     display: inline;
     margin-left: 13px;
+    display: flex;
 }
 .panel-options{
     width: 95%;
