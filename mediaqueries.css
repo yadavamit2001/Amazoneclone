@@ -12,9 +12,6 @@
     .sign-in{
         display: none;
     }
-    .panel-all{
-        flex-wrap: wrap;
-    }
     .panel-all p{
         display: none;
     }
