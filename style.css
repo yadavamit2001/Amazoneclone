@@ -118,6 +118,7 @@
 }
 .panel-all{
     font-weight: 700;
+    display: flex;
 }
 .panel-options p{
     font-size: 14px;
